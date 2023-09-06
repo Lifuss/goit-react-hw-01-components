@@ -1,5 +1,4 @@
 export const TransactionHistory = ({ items }) => {
-  console.log(items);
   return (
     <table class="transaction-history">
       <thead>
